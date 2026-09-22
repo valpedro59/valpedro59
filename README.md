@@ -100,10 +100,13 @@ API RESTful de gestion d'abonnements (WebSocket, notifications, réabonnement) �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=valpedro59&show_icons=true&hide_title=true&bg_color=100425&title_color=0CFFFF&icon_color=DC00D3&text_color=ffffff&border_color=DC00D3&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valpedro59&layout=compact&hide_title=true&bg_color=100425&title_color=0CFFFF&text_color=ffffff&border_color=DC00D3&hide_border=false" width="34%"/>
+[![Followers](https://img.shields.io/github/followers/valpedro59?style=for-the-badge&color=DC00D3&labelColor=100425)](https://github.com/valpedro59?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/valpedro59&label=Repos&query=public_repos&style=for-the-badge&color=0CFFFF&labelColor=100425)](https://github.com/valpedro59?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=valpedro59&style=for-the-badge&color=DC00D3&label=Vues+du+profil)](https://github.com/valpedro59)
 
 </div>
+
+> Astuce : si tu veux les stats détaillées (langages, contributions) avec ton propre thème, l'instance publique de [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) time-out souvent (c'est un service gratuit surchargé). La solution fiable est de forker ce repo et de déployer ta propre instance sur Vercel (5 min, gratuit) — dis-le-moi si tu veux que je détaille les étapes.
 
 <br/>
 
